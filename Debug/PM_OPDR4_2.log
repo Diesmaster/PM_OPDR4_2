@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\chris\source\repos\PM_OPDR4_2\PM_OPDR4_2\Source.cpp(97): warning C4715: 'game::SMuitvoeren': not all control paths return a value
+C:\Users\chris\source\repos\PM_OPDR4_2\PM_OPDR4_2\Source.cpp(372): warning C4715: 'zetten::getinfochar': not all control paths return a value
+C:\Users\chris\source\repos\PM_OPDR4_2\PM_OPDR4_2\Source.cpp(387): warning C4715: 'zetten::getinfoplace': not all control paths return a value
+  PM_OPDR4_2.vcxproj -> C:\Users\chris\source\repos\PM_OPDR4_2\Debug\PM_OPDR4_2.exe
